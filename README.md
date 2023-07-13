@@ -11,6 +11,6 @@ This simple app serves as a starting point for building more complex Flutter app
 
 
 ## Screenshots
+![Screenshot](Assets/Home.png)
+![Screenshot](Assets/main.png)
 
-<img width="965" alt="Home" src="https://github.com/GishenCBoraluwa/flutter_assignment_app/assets/95617712/9b5425dc-f34a-412f-812a-900a49329d16">
-<img width="965" alt="main" src="https://github.com/GishenCBoraluwa/flutter_assignment_app/assets/95617712/997ae087-2ccd-4743-a76c-e5bff9335844">
