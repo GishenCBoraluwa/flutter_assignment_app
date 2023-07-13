@@ -1,16 +1,16 @@
-# flutter_assignment_app
 
-A new Flutter project.
+# Simple Flutter application
 
-## Getting Started
+This application is a basic Flutter app that displays a home page with a title and a centered text widget. The app follows the Material Design guidelines, providing a clean and familiar interface.
 
-This project is a starting point for a Flutter application.
+The main.dart file sets up the app by creating an instance of the MyApp class and running it using the runApp method. MyApp is a StatelessWidget that defines the MaterialApp widget as the root of the app. MaterialApp sets the title of the app and applies a blue theme. The home property of MaterialApp is set to the HomePage widget.
 
-A few resources to get you started if this is your first Flutter project:
+The home_page.dart file contains the code for the home page of the app. It defines a StatelessWidget called HomePage. The HomePage widget is a Scaffold, which provides a basic layout structure for the page. It includes an AppBar at the top with a title and a body that contains a centered text widget displaying the message "Hello Flutter".
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This simple app serves as a starting point for building more complex Flutter applications. It showcases the basic usage of MaterialApp, Scaffold, AppBar, and text widgets, and can be expanded upon to include additional features and functionality.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+
+
